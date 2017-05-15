@@ -1,5 +1,12 @@
 # Angular Medellín
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#-contribuyentes-)
+[![PRs Welcome][prs-badge]][prs]
+[![Code of Conduct][coc-badge]](#cop-código-de-conducta-cop)
+
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
+[![Tweet][twitter-badge]][twitter]
 
 ## :star: ¿Qué es? :star:
 
@@ -46,13 +53,13 @@ Si quieres patrocinarnos puedes contactarnos [aquí](https://github.com/angular-
 
 Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.com/codeofconduct.html), asegúrate de leerlo para disfrutar al máximo de Angular Medellín.
 
-## Contribuyentes
+## ✨ Contribuyentes ✨
 
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=MelinaMejia95 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=alejandronanez "Documentation") |
-| :---: | :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=MelinaMejia95 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=alejandronanez "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub>Felipe Jaramillo </sub>](https://github.com/p1p3)<br />[📢](#talk-p1p3 "Talks") |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Cualquier tipo de contribución es bienvenida!
@@ -74,3 +81,15 @@ Para contactar a los organizadores puedes hacerlo por email a `david.juanherrera
         /     🚘 |      🚘\
        /          |         \
       /           | 🚘       \ (Medellín)
+
+
+[coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
+[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+[github-watch-badge]: https://img.shields.io/github/watchers/angular-medellin/meetup.svg?style=social
+[github-star-badge]: https://img.shields.io/github/stars/angular-medellin/meetup.svg?style=social
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/angular-medellin/meetup.svg?style=social
+
+[prs]: http://makeapullrequest.com
+[github-watch]: https://github.com/angular-medellin/meetup/watchers
+[github-star]: https://github.com/angular-medellin/meetup/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Conoce%20a%20Angular%20Medellín!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/angular-medellin/meetup%20%F0%9F%A4%97
